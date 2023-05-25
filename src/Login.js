@@ -34,7 +34,7 @@ const Login = () => {
           Tạo tài khoản mới
         </button>
       </div>
-      <div className="flex flex-col mb-36">
+      <div className="flex flex-col mb-24">
         <div className="flex justify-around w-full mb-4 text-sm ">
           <div className="flex flex-col text-center">
             <span className="text-[#dddddd] font-semibold">Tiếng Việt</span>
