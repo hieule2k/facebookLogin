@@ -4,7 +4,7 @@ import meta from "./download.png";
 
 const Login = () => {
   return (
-    <div className="flex flex-col justify-between h-full mx-4">
+    <div className="flex flex-col justify-between h-full gap-2 mx-4">
       <div className="flex flex-col items-center ">
         <img
           src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg"
